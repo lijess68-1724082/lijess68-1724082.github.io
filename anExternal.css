@@ -1,0 +1,11 @@
+#floated{
+    float:right;
+}
+
+#rcorners{
+    border-radius:20px;
+    border:3px solid pink;
+    padding:20px;
+    height:200px;
+    width:200px;
+}
